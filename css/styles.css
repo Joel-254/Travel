@@ -1,4 +1,14 @@
-.tropical{
+h1.tropical{
     color: #f7325e;
     font-family: fantasy;
+}
+p.tropical{
+  color: #7dc410;
+}
+h1.popular{
+  color: #7dc410;
+  font-family: fantasy;
+}
+p.popular{
+  color: #f7325e;
 }
