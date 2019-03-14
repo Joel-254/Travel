@@ -1,3 +1,6 @@
+body{
+  background-color: #D4F8F6;
+}
 h1.tropical{
     color: #f7325e;
     font-family: fantasy;
@@ -11,4 +14,10 @@ h1.popular{
 }
 p.popular{
   color: #f7325e;
+}
+#about{
+  color: #f7325e;
+}
+h3#about{
+  text-align: center;
 }
