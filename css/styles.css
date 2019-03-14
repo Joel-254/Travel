@@ -21,3 +21,9 @@ p.popular{
 h3#about{
   text-align: center;
 }
+.important{
+  color: #D2390B;
+}
+#destiny{
+  color: teal;
+}
